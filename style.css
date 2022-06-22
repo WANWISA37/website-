@@ -1,0 +1,30 @@
+body {
+    background-image: url('https://pbs.twimg.com/media/E4UwzRqUYAIevuC?format=jpg&name=large');
+    background-repeat: repeat;
+    background-size: cover;
+    font-family: 'Kanit', sans-serif;
+  } 
+
+header{
+    background-color: black;
+    color: white;
+    height: 70px;
+    padding: 10px;
+  }
+
+  footer {
+    background-color: black;
+    color: white;
+    height: 70px;
+    padding: 10px;
+    text-align: center;
+}
+.mainpage 
+    {
+      width: 1024px; 
+      margin: 0 auto;
+   }
+  
+ .headname {
+     color: deeppink;
+ }
