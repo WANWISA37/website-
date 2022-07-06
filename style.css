@@ -25,9 +25,13 @@ header{
       margin: 0 auto;
    }
   
- .headname {
-     color: deeppink;
+ .headname1 {
+     color: rgb(255, 255, 255);
  }
+
+ .headname2 {
+  color: rgb(0, 0, 0);
+}
 
  .graphic{
   background-image: url("images/chantaburi-cover.jpeg");
