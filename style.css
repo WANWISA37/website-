@@ -6,14 +6,14 @@ body {
   } 
 
 header{
-    background-color: rgb(255, 5, 5);
+    background-color: rgb(252, 190, 190);
     color: rgb(41, 235, 15);
     height: 70px;
     padding: 10px;
   }
 
   footer {
-    background-color: rgb(236, 253, 0);
+    background-color: rgb(165, 250, 186);
     color: white;
     height: 70px;
     padding: 10px;
@@ -33,10 +33,14 @@ header{
   color: rgb(0, 0, 0);
 }
 
+
  .graphic{
   background-image: url("images/chantaburi-cover.jpeg");
   height: 320px;
   padding: auto;
  }
 
-  
+ .maps{
+   border:1px solid rgb(#F8BBD0 )
+   height: 300px
+ } 
