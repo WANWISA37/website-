@@ -28,3 +28,11 @@ header{
  .headname {
      color: deeppink;
  }
+
+ .graphics{
+  background-image: url("images/chantaburi-cover.jpeg");
+  height: 320px;
+  padding: auto;
+ }
+
+  
